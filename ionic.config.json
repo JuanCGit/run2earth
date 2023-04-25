@@ -1,0 +1,7 @@
+{
+  "name": "run2earth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
